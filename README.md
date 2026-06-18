@@ -7,4 +7,4 @@ The dataset has been published on [HuggingFace](https://huggingface.co/datasets/
 
 ## Code
 The proposed IceYOLO code is [here](https://github.com/ASGOLabMultisourceCooperationGroup/IceYOLO)
-The proposed IceFormer and benchamrk will be released soon (currently blocked due to GitHub issue)
+The proposed IceFormer and benchamrk code is [here](https://github.com/ASGOLabMultisourceCooperationGroup/mmsegmentation)
